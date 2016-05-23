@@ -1,0 +1,17 @@
+CACHE MANIFEST
+# 2012-02-21 v1.0.0
+/index.html
+/Finished_Notebook.png
+/claw-logo.png
+/bellSchedule.png
+/canvas.png
+/Finished_Grades.png
+/Finished_Westview.png
+/ANNOUNCEMENTS.png
+
+
+NETWORK:
+*
+
+FALLBACK:
+/html/ /offline.html
